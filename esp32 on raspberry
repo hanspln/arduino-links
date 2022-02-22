@@ -1,0 +1,7 @@
+### Add ESP32 to Boards Manager on Raspberry Pi 64 bit 
+
+
+https://github.com/koendv/xtensa-esp32-elf-raspberrypi
+
+
+https://raw.githubusercontent.com/koendv/xtensa-esp32-elf-raspberrypi/master/package_esp32_dev_index.json
